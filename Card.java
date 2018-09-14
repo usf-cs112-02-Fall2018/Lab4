@@ -9,7 +9,7 @@ public class Card
 	public static final int SPADES = 1;
 	public static final int HEARTS = 2;
 	public static final int DIAMONDS = 3;
-   //DECLARE OTHER INSTANCE DATE HERE
+   //DECLARE OTHER INSTANCE DATA HERE
    
    /**
     * Default constructor that creates a card with the given values
